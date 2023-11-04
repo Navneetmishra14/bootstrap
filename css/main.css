@@ -1,0 +1,403 @@
+/*home page css start*/
+/*navbar css start*/
+.weblogo{
+  width: 68px;
+}
+
+.navbar{
+  background-color: #0000009c !important;
+}
+
+.navbar-nav li{
+  padding: 0 10px;
+}
+
+
+.navbar-nav li a{
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+
+}
+
+.carousel-caption{
+  color: #fff;
+  position: absolute;
+  top: 27%;
+  left: 15%;
+  right: 15%;
+  bottom: 1.25rem;
+  padding-top: 1.25ram;
+  padding-bottom: 1.25rem;
+  text-align: center;
+}
+h2{
+  font-size: 70px;
+ font-weight: bold;
+  border-bottom-color: #82c434;
+ 
+}
+
+
+@media(max-width: 1300px)
+{
+  h2{
+    font-size: 40px;
+  }
+}
+@media(max-width: 700px)
+{
+  h2{
+    font-size: 20px;
+  }
+}
+
+
+
+
+.moblogo{
+  display: none;
+}
+
+
+/*navbar css end*/
+
+
+
+
+.img123{
+    width: 70%;
+}
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: justify;
+}
+
+.banner{
+    background: url('../img/333.avif');
+    width: 100%;
+  
+  }
+  .c{
+    margin-top: 102px;
+    font-family: prague;
+    color: #fff;
+    font-size: 50px;
+  }
+  .d{
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: white;
+  }
+
+footer{
+    background:#111215;;
+    width: 100%;
+    color: white;
+    padding: 50px;
+  }
+
+/*.f{
+    color: #fff;
+    font-family: Bebas Neue,sans-serif;
+    font-size: 68px;
+}
+
+.g{
+    color: #fff;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+}*/
+
+
+
+.banner1{
+  background: url('https://pn-paul.netlify.app/image/ffback2.png');
+  width: 100%;
+
+}
+.a1{
+  background-color:black !important;
+}
+
+
+
+
+/*home page css end*/
+
+
+/*about page start*/
+
+.ccc{
+  background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+ .img124{
+  width: 100% !important;
+ }
+
+ .a{
+  text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+ }
+
+ .c2{
+  background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+  width: 100%;
+ }
+
+ .aa{
+  line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    /*text-align: justify;*/
+ }
+
+ .our{
+  padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+ }
+
+.a2{
+  text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b2{
+  line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+/*aboup page end*/
+
+
+/*brand page start*/
+.ccb{
+  background: url(https://pn-paul.netlify.app/image/brands.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover; 
+}
+
+/*brand page end*/
+
+
+
+
+
+
+/*ourteam page start*/
+.ccc{
+  background: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover; 
+}
+
+.bb{
+  line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.photo1{
+  background-image: url(https://pn-paul.netlify.app/image/YPAshok.jpg);
+  width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo2{
+  background-image: url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg);
+  width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.photo3{
+  background-image: url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg);
+  width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo4{
+  background-image: url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg);
+  width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo5{
+  background-image: url(https://pn-paul.netlify.app/image/vibhutiPR.jpg);
+  width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+/*ourteam page end*/
+
+/*press relese page start*/
+
+
+.ccd{
+  background: url(	https://pn-paul.netlify.app/image/press-new-1.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover; 
+}
+
+.go{
+  line-height: 20px;
+            letter-spacing: 1px;
+            word-spacing: 1px;
+            padding-right: 5px;
+            margin-top: 20px;
+            font-weight: lighter;
+            padding-bottom: 12px;
+}
+
+.read{
+  letter-spacing: 1px;
+                word-spacing: 1px;
+                padding-right: 5px;
+                font-weight: lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*press relese page end*/
+
+
+
+
+
+
+
+/*contact page start*/
+.cce{
+  background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*contact page end*/
+
+
+
+
+
+
+/*carrers page start*/
+
+.ccf{
+  background: url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+  width: 100%;
+  height: 650px;
+    background-position: center;
+    background-size: cover; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*carrers page end*/
+@media(max-width:768px) {
+  .img123 {
+    width: 100%;
+    margin-top: 22px;
+
+  }
+  .moblogo{
+    display: block;
+  }
+  .weblogo{
+    display: none;
+  }
+  .navbar{
+    background: #fcb21b!important;
+  }
+  .mobimg{
+    margin-top: 80px;
+  }
+}
